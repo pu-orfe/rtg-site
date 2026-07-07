@@ -144,7 +144,7 @@
     <div class="node__content">
       
       
-            <div class="field field--name-field-news-body field--type-text-long field--label-hidden field__item"><p>"The Legacy of the Black Scientific Renaissance at Bell Laboratories in the '70s, '80s and '90s" will be the subject of a talk by <a href="http://www.princeton.edu/~wmassey/" target="_self">William Massey</a>, Princeton's Edwin S. Wilsey Professor of Operations Research and Financial Engineering, at 5 p.m. Wednesday, Feb. 13, in the Friend Center Convocation Room.<br>
+            <div class="field field--name-field-news-body field--type-text-long field--label-hidden field__item"><p>"The Legacy of the Black Scientific Renaissance at Bell Laboratories in the '70s, '80s and '90s" will be the subject of a talk by <a href="https://www.princeton.edu/~wmassey/" target="_self">William Massey</a>, Princeton's Edwin S. Wilsey Professor of Operations Research and Financial Engineering, at 5 p.m. Wednesday, Feb. 13, in the Friend Center Convocation Room.<br>
 
 <br>
 
@@ -544,10 +544,10 @@ other’s research, including Massey’s own.
         <a href="/meet-princeton/visit-us#campus-maps" data-drupal-link-system-path="node/20531">Maps &amp; Shuttles</a>
               </li>
                 <li class="menu-item">
-        <a href="http://www.goprincetontigers.com">Varsity Athletics</a>
+        <a href="https://www.goprincetontigers.com">Varsity Athletics</a>
               </li>
                 <li class="menu-item">
-        <a href="http://giving.princeton.edu">Giving to Princeton</a>
+        <a href="https://giving.princeton.edu">Giving to Princeton</a>
               </li>
         </ul>
   
@@ -566,7 +566,7 @@ other’s research, including Massey’s own.
         
             <ul class="menu vertical">
                             <li class="menu-item">
-            <a href="http://library.princeton.edu">Library</a>
+            <a href="https://library.princeton.edu">Library</a>
                     </li>
                         <li class="menu-item">
             <a href="https://registrar.princeton.edu/academic-calendar/">Academic Calendar</a>
@@ -615,7 +615,7 @@ other’s research, including Massey’s own.
         <a href="https://bsky.app/profile/princeton.edu">Bluesky</a>
               </li>
                 <li class="menu-item sprite-before social-media-directory">
-        <a href="http://socialmedia.princeton.edu/accounts">Social Media Directory</a>
+        <a href="https://socialmedia.princeton.edu/accounts">Social Media Directory</a>
               </li>
         </ul>
   
@@ -642,7 +642,7 @@ other’s research, including Massey’s own.
     </div>
       <div class="subfooter row" typeof="schema: Organization">
           <div class="subfooter-first small-6 medium-4 large-5 columns">
-            <a href="http://www.princeton.edu"><img alt="" src="/themes/custom/hobbes/images/logo-white.svg"><span property="schema:name" class="show-for-sr">Princeton University</span></a>
+            <a href="https://www.princeton.edu"><img alt="" src="/themes/custom/hobbes/images/logo-white.svg"><span property="schema:name" class="show-for-sr">Princeton University</span></a>
           </div>
           <div class="subfooter-second small-6 medium-8 large-7 columns">
             <div class="row">
